@@ -8,17 +8,17 @@ export function getAll() {
     return [
         {
             id: 1,
-            text: 'new list',
+            text: 'list1',
             completed: false
         },
         {
             id: 2,
-            text: 'Learn typescript',
+            text: 'List2',
             completed: false
         },
         {
             id: 3,
-            text: 'Build a React App',
+            text: 'list3',
             completed: false
         }
     ]
